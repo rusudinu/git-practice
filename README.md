@@ -1,5 +1,7 @@
 # Git practice repo
 
+You can try any Git/GitHub feature (such as pull requests) on this repo.
+
 1. What is Git?
     - Git is a version control system, designed to handle everything related to source code management
     - Git is used to track changes in the source code, enabling multiple developers to work together
